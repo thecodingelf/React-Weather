@@ -23,4 +23,5 @@ Click (https://github.com/thecodingelf/React-Weather.git) then download the .zip
 ```
 > npm install
 > npm start
+> localhost:8080
 ```
