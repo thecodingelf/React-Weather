@@ -1,6 +1,7 @@
 # Weather application
 
 User can search weather in different cities of the country set by the country code.
+They can see the temperatures in celcius, pressure and humidity of that city.
 
 ### Getting Started
 
